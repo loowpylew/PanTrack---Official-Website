@@ -862,6 +862,33 @@ div.testimonial-sub-title h2 > span.color{
   color: greenyellow;
 }
 
+#testimonial-form {
+  margin-bottom: 60px; /* Add space below the form */
+}
+
+.testimonial-container {
+  margin-top: 20px; /* Add space above the testimonial container */
+}
+
+#testimonial-form input,
+#testimonial-form textarea {
+  background-color: whitesmoke;
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#testimonial-form button {
+  background-color: greenyellow;
+  color:black;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#testimonial-form button:hover {
+  background-color: greenyellow;
+}
 /*=================================================================
  Call To Action 2
 ==================================================================*/
